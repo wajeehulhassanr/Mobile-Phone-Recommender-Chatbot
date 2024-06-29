@@ -39,12 +39,6 @@ If you wish to improve or update the project, consider the following guidelines:
 - **Improve User Interface**: Enhance the user interface for better user experience across different devices.
 - **Optimize Performance**: Optimize the codebase and algorithms for improved performance and scalability.
 
-## Authors
-
-- [Abdul Nafay](https://github.com/Nafay-0)
-- [Asadullah Nawaz](https://github.com/Asadullah378)
-
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
